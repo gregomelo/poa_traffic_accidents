@@ -24,7 +24,7 @@ Our purpose with this project was strict to develop my machine learning and codi
 
 ## Methodology
 
-First data loading was loaded by the repository and we applied some cleaning, processing, and transforming tasks. These steps can be seen in the notebook inside the `data folder`.
+First data loading was loaded by the repository and we applied some cleaning, processing, and transforming tasks. These steps can be seen in the notebook inside the `data folder`. If you want to some summarizes and other data visuals with this data, please access this dashboard at [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWJlZWI0ZjAtNThjMC00ZDNmLWI2NjgtMWVhMDVhMDQ4NmJkIiwidCI6ImI4N2IxYmQyLTc5YTItNGY4ZS1hYTljLWYxMDQ2MTVlOGI0NiJ9).
 
 Initially, I planned to create three models:
 
